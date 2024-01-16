@@ -16,4 +16,4 @@ Arquivo de configuração de layout e fontstyle para o Visual Studio Code.
 
 ### Resultado
 
-![result]()
+![result](https://github.com/ocesar9/vscode-settings/blob/main/pictures/result.png)
