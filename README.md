@@ -24,7 +24,7 @@ Arquivo de configuração de layout e fontstyle para o Visual Studio Code.
 
 ![result](https://github.com/ocesar9/vscode-settings/blob/main/pictures/result.png)
 
-### Dicas de Extensôes
+### Dicas de Extensões
 
 [Bracket Pair Color DLW](https://marketplace.visualstudio.com/items?itemName=BracketPairColorDLW.bracket-pair-color-dlw)
 
