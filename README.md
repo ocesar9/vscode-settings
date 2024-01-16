@@ -63,10 +63,10 @@ Arquivo de configuração de layout e fontstyle para o Visual Studio Code.
 
 > Definir Tema do Ícone do Produto
 
-![FluentIcons]()
+![FluentIcons](https://github.com/ocesar9/vscode-settings/blob/main/pictures/FluentIcons.png)
 
 [**Symbols**](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 
 > Definir Tema do Ícone de Arquivo
 
-![Symbols]()
+![Symbols](https://github.com/ocesar9/vscode-settings/blob/main/pictures/Symbols.png)
