@@ -1,0 +1,46 @@
+{
+    "symbols.hidesExplorerArrows": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "symbols",
+    "workbench.layoutControl.enabled": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.enabled": true,
+    "breadcrumbs.enabled": false,
+    "files.autoSave": "afterDelay",
+    "update.mode": "manual",
+    "window.commandCenter": false,
+    "apc.header": {
+        "height": 36
+    },
+    "apc.listRow": {
+        "height": 24
+    },
+    "apc.font.family": "JetBrains Mono",
+    "apc.stylesheet": {
+        ".title-label > h2": "display:none",
+        ".editor-actions": "display:none",
+        ".pane-body": "padding:8px",
+        ".pane-header": "padding: 0 8px",
+    },
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\julio\\git-repositories"
+    ]
+    
+
+}
+
