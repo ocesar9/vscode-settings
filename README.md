@@ -4,7 +4,7 @@ Arquivo de configuração de layout e fontstyle para o Visual Studio Code.
 
 ### Tema Base
 
-![DraculaOfficial]()
+![DraculaOfficial](https://github.com/ocesar9/vscode-settings/blob/main/pictures/DraculaTheme.png)
 [Link da extensão](https://draculatheme.com/visual-studio-code)
 
 ### Fonte Base
