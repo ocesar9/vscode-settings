@@ -25,7 +25,7 @@
     "update.mode": "manual",
     "window.commandCenter": false,
     "apc.header": {
-        "height": 36
+        "height": 35
     },
     "apc.listRow": {
         "height": 24
@@ -34,13 +34,36 @@
     "apc.stylesheet": {
         ".title-label > h2": "display:none",
         ".editor-actions": "display:none",
-        ".pane-body": "padding:8px",
-        ".pane-header": "padding: 0 8px",
+        ".pane-header": "padding: 0 8px"
     },
     "projectManager.git.baseFolders": [
         "C:\\Users\\julio\\git-repositories"
-    ]
+    ],
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.env.windows": {},
+    "console-ninja.featureSet": "Community"
     
 
 }
-
