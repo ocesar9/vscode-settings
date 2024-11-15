@@ -71,7 +71,9 @@ Arquivo de configuração de layout e fontstyle para o Visual Studio Code.
  - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 
+# Autor
 
+[Júlio Guimarães](https://github.com/ocesar9)
 
 
 
