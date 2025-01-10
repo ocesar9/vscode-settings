@@ -15,6 +15,7 @@
   "editor.semanticHighlighting.enabled": false,
   "editor.minimap.enabled": false,
   "editor.rulers": [80, 120],
+  "editor.stickyScroll.enabled": false,
   "explorer.compactFolders": false,
   "explorer.fileNesting.enabled": true,
   "breadcrumbs.enabled": false,
