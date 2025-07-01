@@ -66,10 +66,8 @@ Arquivo de configuração de layout e fontstyle para o Visual Studio Code.
  - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
  - [px to rem](https://marketplace.visualstudio.com/items?itemName=sainoba.px-to-rem)
  - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
- - [Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
  - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
  - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-
 
 # Autor
 
