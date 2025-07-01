@@ -1,6 +1,5 @@
 {
   "symbols.hidesExplorerArrows": false,
-  "tabnine.experimentalAutoImports": true,
   "workbench.colorTheme": "Dracula Soft",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.labelFormat": "short",
