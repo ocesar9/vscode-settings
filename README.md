@@ -134,4 +134,8 @@ Extensão que permite personalização profunda da interface do VS Code.
 
 ---
 
-**Autor:** [Júlio Guimarães](https://github.com/ocesar9)
+## 👨‍💻 Autor
+
+**Júlio Guimarães**
+- GitHub: [@ocesar9](https://github.com/ocesar9)
+- LinkedIn: [Seu perfil LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-guimar%C3%A3es-183110162/)
